@@ -1,0 +1,7 @@
+{
+  "name": "EcoChef",
+  "description": "Tu asistente de cocina anti-desperdicio. Escanea tu nevera y cocina recetas deliciosas con lo que tienes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
